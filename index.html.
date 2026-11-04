@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CFTV-S10</title>
+</head>
+<body>
+    <h1>CFTV-S10</h1>
+
+    <h2>Sobre o projeto</h2>
+
+    <p>
+        O CFTV-S10 é um projeto pessoal de
+        armazenamento de gravações de câmeras
+        de segurança utilizando um dispositivo
+        Android e o Google Drive.
+    </p>
+
+    <p>
+        O sistema utiliza o rclone para
+        transferir arquivos de gravação
+        para uma conta Google Drive autorizada.
+    </p>
+
+    <p>
+        O projeto é destinado ao uso pessoal
+        e não disponibiliza gravações
+        publicamente.
+    </p>
+
+    <h2>Privacidade</h2>
+
+    <p>
+        <a href="privacidade.html">
+            Política de Privacidade
+        </a>
+    </p>
+</body>
+</html>
